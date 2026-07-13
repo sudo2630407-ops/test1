@@ -1,6 +1,6 @@
 import streamlit as st
  
-st.title("내 첫 웹앱")
+st.title("김예은")
 st.write("안녕하세요! ㅎㅎ")
 
 지역 = st.selectbox("지역을 골라 보세요", ["서울", "양평", "부산"])
